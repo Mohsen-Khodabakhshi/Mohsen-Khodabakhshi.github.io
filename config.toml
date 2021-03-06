@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hallo-hugo"
+publishDir = "docs"
+[Author]
+    name = "Mohsen"
+[params]
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/Mohsen-Khodabakhshi"
+    [[params.links]]
+        icon = "linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/mohsen-khodabakhshi/"
+    [[params.links]]
+        icon = "instagram"
+        title = "instagram"
+        url = "https://www.instagram.com/_themohsen_/"
